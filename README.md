@@ -2,4 +2,4 @@
 Home of Universal DpFileList Generator
 
 # version
-Latest version: 1.0.3
+Latest version: 1.0.4
